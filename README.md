@@ -1,7 +1,7 @@
 # Swift_FFI_iOS
 Integrating Swift-3 FFI to Kony application
 
-We are supporting Swift and we have created a sample app using Swift FFI. 
+We are supporting Swift-3 and we have created a sample app using Swift FFI. But to support Swift as FFI we have write the wrapper class in objective-C. 
 Build the application in the IDE and before run the app on Xcode, please follow the below steps,
 
 1. Use Legacy Swift Language - No(for Swift version 3.0)/Yes(for Swift version 2.3 or below).
