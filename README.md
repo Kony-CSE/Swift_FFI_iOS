@@ -1,5 +1,5 @@
 # Swift_FFI_iOS
-Integrating Swift FFI to Kony application
+Integrating Swift-3 FFI to Kony application
 
 We are supporting Swift and we have created a sample app using Swift FFI. 
 Build the application in the IDE and before run the app on Xcode, please follow the below steps,
